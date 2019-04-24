@@ -1,7 +1,7 @@
-# reviews_syntactic_opinion_mining
+# Syntactic Aspect based opinion mining in Greek Reviews using Spacy
 
  ## Unstable - Still in progress 
 
 
-## Syntactic Aspect based opinion mining in Greek Reviews using Spacy
+
 
